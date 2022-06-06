@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ySHdqoyOyZU3Demv+E7hWAyUXjw=
+			L3yneUTXo46OfBuWVmlYlCR7ufw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"99506ef51e6fe999e15f62632ea305272a3188ad" or cdhash H"c921ddaa8c8ec995370de9aff84ee1580c945e3c"</string>
+			<string>cdhash H"5b330e7d912043be64569a8da2cb3b24ba677f40" or cdhash H"2f7ca77944d7a38e8e7c1b9656695894247bb9fc"</string>
 		</dict>
 		<key>PlugIns/VoodooPS2Trackpad.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Mf4eJEZxOylLtelArvUqYrygiLg=
+			L2Iw8U0fgVWGCUTWRN1eazFVCwc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b7803329d119d24866a672331e253011ff3ef706" or cdhash H"31fe1e2446713b294bb5e940aef52a62bca088b8"</string>
+			<string>cdhash H"b44996a6f84fb75279c061a2050fd44b4016e4cb" or cdhash H"2f6230f14d1f8155860944d644dd5e6b31550b07"</string>
 		</dict>
 	</dict>
 	<key>rules</key>
