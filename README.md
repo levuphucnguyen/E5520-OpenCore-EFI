@@ -11,7 +11,6 @@ Copyright (c) 2016-2020, vit9696
 
 Credits:
 - acidanthera for OpenCore, kexts and SSDTs
-- 1Revenger1, Dr.Hurt and Rehabman for VoodooPS2Controller kext for Alps touchpad
 - PikerAlpha for SSDTs for Power Management
 - headkaze for hackintool (USBMap)
 - Realtek for USB Wifi driver
