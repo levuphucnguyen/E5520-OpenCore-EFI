@@ -11,6 +11,6 @@ Copyright (c) 2016-2020, vit9696
 
 Credits:
 - acidanthera for OpenCore and kexts
-- 1Revenger1 and Dr.Hurt for VoodooPS2Controller for Alps touchpad kext
+- 1Revenger1 and Dr.Hurt for VoodooPS2Controller kext for Alps touchpad
 - PikerAlpha for SSDTs
 - headkaze for hackintool (USBMap)
