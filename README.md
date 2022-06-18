@@ -14,5 +14,3 @@ Credits:
 - 1Revenger1, Dr.Hurt and Rehabman for VoodooPS2Controller kext for Alps touchpad
 - PikerAlpha for SSDTs
 - headkaze for hackintool (USBMap)
-- Realtek for USB Wifi RTL8811CU driver
-- Rehabman for AppleBacklight kext patch
