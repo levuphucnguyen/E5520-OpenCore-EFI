@@ -13,5 +13,3 @@ Credits:
 - acidanthera for OpenCore, kexts and SSDTs
 - PikerAlpha for SSDTs for Power Management
 - headkaze for hackintool (USBMap)
-- Realtek for USB Wifi RTL8811CU driver
-- Rehabman for AppleBacklight kext patch
