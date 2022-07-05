@@ -1101,7 +1101,7 @@
 			<key>PickerVariant</key>
 			<string>Acidanthera/GoldenGate</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<false/>
 			<key>TakeoffDelay</key>
@@ -1466,9 +1466,9 @@
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
-			<string>Auto</string>
+			<string>AMI</string>
 			<key>KeySwap</key>
-			<false/>
+			<true/>
 			<key>PointerSupport</key>
 			<false/>
 			<key>PointerSupportMode</key>
