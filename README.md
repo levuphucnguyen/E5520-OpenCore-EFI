@@ -10,6 +10,6 @@ Copyright (c) 2017-2020, savvas
 Copyright (c) 2016-2020, vit9696
 
 Credits:
-- acidanthera for OpenCore, kexts and SSDTs
-- PikerAlpha for SSDTs for Power Management
-- headkaze for hackintool (USBMap)
+- [acidanthera](https://github.com/acidanthera) for OpenCore, kexts and SSDTs
+- [Piker-Alpha](https://github.com/Piker-Alpha) for SSDTs for Power Management
+- [headkaze](https://github.com/headkaze) for hackintool (USBMap)
