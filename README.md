@@ -1,4 +1,4 @@
-# Dell Latitude E5520 EFI OpenCore Hackintosh
+# Dell Latitude E5520 Hackintosh OpenCore EFI
 OpenCore Bootloader
 
 Copyright (c) 2016-2017, The HermitCrabs Lab
